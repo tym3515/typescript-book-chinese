@@ -2,6 +2,7 @@
 
 npm run build
 
+
 cd docs/.vuepress/dist
 
 git init
